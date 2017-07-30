@@ -4,15 +4,22 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
 */
+
+html *
+{  
+  font-family: 'Cairo', sans-serif;
+}
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
+
 }
 
 p {
   line-height: 1.55;
   color: #333;
   font-size: 400;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
+  
 }
 
 h1 {
@@ -46,7 +53,7 @@ a {
   ================================================== */
 .btn {
   background-color: #199EB8;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: 800;
   color: #fff;
   padding: 15px 45px;
@@ -152,7 +159,7 @@ a:hover {
 }
 
 .tagline {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-size: 26px;
   margin: 45px 0 75px 0;
   color: #fff;
@@ -175,7 +182,7 @@ a:hover {
   margin: 0;
   padding: 2px 0;
   line-height: 1;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -297,7 +304,7 @@ a:hover {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: 300;
   font-size: 15px;
   outline: none;
@@ -471,7 +478,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: inline-block;
   width: 160px;
   height: 160px;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: 500;
   color: #666;
   border: 6px solid #199EB8;
@@ -487,7 +494,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 70px;
   top: -25px;
   right: -15px;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-size: 18px;
   background-color: #E04F00;
   position: absolute;
@@ -558,7 +565,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col p {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-size: 14px;
   color: #999;
 }
@@ -745,7 +752,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card-title-wrap .card-title, .team .card-title-wrap .card-text {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   display: block;
   margin: 0;
 }
@@ -769,7 +776,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact h2 {
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   color: #199EB8;
 }
 
@@ -883,7 +890,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .site-footer .bottom .list-inline a {
   color: #fff;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', sans-serif;
   margin-right: 15px;
 }
 
